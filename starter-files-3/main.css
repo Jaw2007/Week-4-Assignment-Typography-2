@@ -88,3 +88,7 @@ p {
 #how-does-it-work, #influence, #joke {
 	margin-top: 2em;
 }
+
+p:first-of-type {
+	text-indent: 0;
+}
