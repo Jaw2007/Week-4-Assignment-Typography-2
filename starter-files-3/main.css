@@ -60,11 +60,14 @@ h2 {
 }
 
 h3 {
-	
+	font-size: 20px;
+	padding: auto;
 }
 
 header {
-	
+	font-size: 25px;
+	line-height: 120%;
+	font-family: Georgia, serif;
 }
 
 main {
