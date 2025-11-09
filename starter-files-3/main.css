@@ -24,7 +24,14 @@ a:focus, a:hover {
 }
 
 body {
-
+	font-size: 20px;
+	line-height: 130%;
+	border: 5px solid red;
+	max-width: 80ch;
+	font-family: "Inter", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
 }
 
 code {
