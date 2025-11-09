@@ -71,17 +71,20 @@ header {
 }
 
 main {
-
+	text-align: center;
 }
 
 p {
-
+	text-indent: 4em;
+	text-align: left;
 }
 
 #intro {
-
+	font-size: 25px;
+	line-height: 145%;
+	font-family: Georgia, serif;
 }
 
 #how-does-it-work, #influence, #joke {
-
+	margin-top: 2em;
 }
