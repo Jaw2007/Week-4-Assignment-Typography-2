@@ -35,7 +35,11 @@ body {
 }
 
 code {
-	
+	border: 5px solid rgb(0, 255, 213);
+	font-family: "Roboto Condensed", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400;
+  	font-style: normal;
 }
 
 h1, h2, h3 {
